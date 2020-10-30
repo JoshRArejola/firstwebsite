@@ -1,0 +1,36 @@
+/* CSS|*/
+
+
+div{
+	width: 100px;
+	height: 100px;
+	position: absolute;
+}
+
+.pink{
+	background-color: pink;
+	z-index: 3;
+	top: 70px;
+	left: 70px;
+}
+
+.blue{
+	background-color: blue;
+	z-index: 2;
+	top: 100px;
+	left: 100px;
+}
+
+.purple{
+	background-color: purple;
+	z-index: 1;
+	top: 130px;
+	left: 130px;
+}
+
+.green{
+	background-color: green;
+	z-index: 0;
+	top: 160px;
+	left: 160px;
+}

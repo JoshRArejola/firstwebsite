@@ -1,0 +1,52 @@
+/* CSS */
+
+
+body{
+	width: 750px;
+}
+
+h1{
+	background-color: #ccffff;
+	top: 10px;
+	left: 100px;
+	position: fixed;
+}
+
+p{
+	width: 450px;
+}
+
+.indent{
+	position: relative;
+	top: 10px;
+	left: 100px;
+}
+
+div{
+	height: 150px;
+	width: 150px;
+	margin: 20px;
+}
+
+.one{
+	background-color: red;
+	float: right;
+}
+
+.two{
+	background-color: blue;
+	float: left;
+}
+
+.three{
+	background-color: yellow;
+	float: right;
+	clear: both;
+}
+.four{
+	background-color: green;
+	float: left;
+}
+li{
+	display: inline;
+}

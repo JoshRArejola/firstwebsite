@@ -1,0 +1,17 @@
+
+
+
+body{
+	color: black;
+	background-image: url("Cool.jpg");
+	background-repeat: no-repeat;
+	background-size: 1000px 1000px;
+}
+h1{
+	font-family: 'Sansita Swashed', italic;
+}
+
+p{
+	width: 50%;
+	font-family: 'Open Sans', serif;
+}

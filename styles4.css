@@ -1,0 +1,36 @@
+
+
+
+body{
+	color: red;
+	background-image: url("MelonCat.jpg");
+	/*background-repeat: repeat-x;*/
+	background-size: 1px 1px;
+}
+
+a{
+	color: red;
+}
+
+a{
+	color: blue;
+}
+
+p{
+	width: 50%;
+}
+
+.sml{
+	width: 200px;
+	height: 200px;
+}
+
+.med{
+	width: 400px;
+	height: 400px;
+}
+
+.lrg{
+	width: 800px;
+	height: 800px;
+}
